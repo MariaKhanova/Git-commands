@@ -7,7 +7,7 @@
 *   [Консольные команды](https://github.com/cyberspacedk/Git-commands/tree/master/git#Консольные-команды)
 *   [Примеры реальной работы](https://github.com/cyberspacedk/Git-commands/tree/master/git#Примеры) -->
 
-
+✔✔✔✔✔✔
 
 ## Общее
 
